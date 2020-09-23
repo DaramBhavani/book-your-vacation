@@ -1,7 +1,7 @@
 {
-  "name": "trillo",
+  "name": "book-your-vacation",
   "version": "1.0.0",
-  "description": "Trillo APP",
+  "description": "book-your-vacation APP",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
